@@ -1,3 +1,4 @@
 streamlit
 pyperclip
-streamlit requests
+streamlit 
+requests
